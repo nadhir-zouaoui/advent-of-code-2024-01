@@ -16,6 +16,9 @@ int main()
         return 1;
     }
     std::unordered_map<int, int> map;
-    while
+    std::string mot;
+    while (getline(file, line)) {
+
+    }
     std::cout << "Hello World!\n";
 }
